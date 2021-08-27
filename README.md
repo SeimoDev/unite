@@ -11,7 +11,7 @@ Seimo
 <a href="https://sakura-bbs.cn">樱花社区</a>
 
 
-<a href="https://www.cyanmango.xyz">青芒</a>
+<a href="http://www.cyanmango.xyz">青芒</a>
 
 ---
 
