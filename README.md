@@ -10,4 +10,6 @@ Seimo
 
 <a href="https://sakura-bbs.cn">樱花社区</a>
 
+---
+
 <a href="Mailto:seimo@sakura-bbs.cn">加入我们</a>
